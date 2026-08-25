@@ -1,0 +1,41 @@
+[0x2ca26a]
+last_change = 2026-08-25T09:27:20.064501Z
+addr = 0x2ca26a
+func_addr = 0x2ca140
+comment = "0x80 = 128LL = INetworkMessages_GetNetworkGroupCount"
+decompiled = false
+
+[0x2cacb3]
+last_change = 2026-08-25T09:27:20.064539Z
+addr = 0x2cacb3
+func_addr = 0x2ca140
+comment = "0x88 = 136LL = INetworkMessages_GetNetworkGroupName"
+decompiled = false
+
+[0x2cacc6]
+last_change = 2026-08-25T09:27:20.064549Z
+addr = 0x2cacc6
+func_addr = 0x2ca140
+comment = "0x90 = 144LL = INetworkMessages_GetNetworkGroupColor"
+decompiled = false
+
+[0x2ca270]
+last_change = 2026-08-25T09:27:20.065294Z
+addr = 0x2ca270
+func_addr = 0x2ca140
+comment = "0x80 = 128LL = INetworkMessages_GetNetworkGroupCount"
+decompiled = true
+
+[0x2cacc0]
+last_change = 2026-08-25T09:27:20.065303Z
+addr = 0x2cacc0
+func_addr = 0x2ca140
+comment = "0x88 = 136LL = INetworkMessages_GetNetworkGroupName"
+decompiled = true
+
+[0x2caccc]
+last_change = 2026-08-25T09:27:20.065309Z
+addr = 0x2caccc
+func_addr = 0x2ca140
+comment = "0x90 = 144LL = INetworkMessages_GetNetworkGroupColor"
+decompiled = true

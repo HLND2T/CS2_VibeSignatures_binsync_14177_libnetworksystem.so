@@ -1,0 +1,10 @@
+last_change = 2026-08-25T09:27:19.079457Z
+addr = 0x2a9c80
+size = 0x286
+name = "CNetworkMessages_FindNetworkMessage"
+
+[header]
+name = "CNetworkMessages_FindNetworkMessage"
+addr = 0x2a9c80
+
+[header.args]

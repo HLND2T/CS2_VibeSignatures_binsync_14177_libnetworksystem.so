@@ -1,0 +1,10 @@
+last_change = 2026-08-25T09:27:19.079444Z
+addr = 0x2a6080
+size = 0x44d
+name = "CNetworkMessages_UnserializeFromStream"
+
+[header]
+name = "CNetworkMessages_UnserializeFromStream"
+addr = 0x2a6080
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-25T09:27:19.079421Z
+addr = 0x2a4300
+size = 0x8
+name = "CNetworkMessages_GetIsForServer"
+
+[header]
+name = "CNetworkMessages_GetIsForServer"
+addr = 0x2a4300
+
+[header.args]
